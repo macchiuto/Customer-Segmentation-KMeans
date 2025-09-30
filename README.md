@@ -5,9 +5,9 @@
 
 ## Overview
 
-This repository contains a customer segmentation analysis for an e-commerce clothing company, developed as a final project for the Machine Learning course. The goal is to cluster customers to identify target groups and tailor product promotions effectively. 
+This repository contains a **customer segmentation analysis** for an e-commerce clothing company, developed as a **final project for the Machine Learning course**. The goal is to cluster customers to identify target groups and tailor product promotions effectively. 
 
-The dataset contains customer demographic and purchase data. After removing irrelevant or high-cardinality features, and encoding categorical variables, K-Means clustering is applied to segment customers.
+The dataset contains customer demographic and purchase data. After removing irrelevant or high-cardinality features, and encoding categorical variables, *K-Means clustering* is applied to segment customers.
 
 ---
 
